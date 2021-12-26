@@ -1,2 +1,2 @@
 # gurmukhiTransliterator
-Transliterates Gurmukhi text 
+Transliterates Gurmukhi text to Roman characters
