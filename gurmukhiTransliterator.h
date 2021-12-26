@@ -19,10 +19,8 @@ char *transliterateWord(const wchar_t *word, gurmukhiTableEntry *table);
 bool isTwoBytes(long gurmukhiCode);
 bool isThreeBytes(long gurmukhiCode);
 bool isFourBytes(long gurmukhiCode);
-bool isVowel(long gurmukhiCode);
 bool isNukta(long gurmukhiCode);
 bool isLetter(long gurmukhiCode);
-bool isMatra(long gurmukhiCode);
 bool isHalant(long gurmukhiCode);
 bool isNasalDiacritic(long gurmukhiCode);
 bool isAddak(long gurmukhiCode);
@@ -34,4 +32,3 @@ bool isLabial(long gurmukhiCode);
 bool isNasal(long gurmukhiCode);
 bool isPlaceholderVowel(long gurmukhiCode);
 char *getEnglish(gurmukhiTableEntry *table, long gurmukhiCode);
-
