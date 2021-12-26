@@ -1,0 +1,2 @@
+# gurmukhiTransliterator
+Transliterates Gurmukhi text 
