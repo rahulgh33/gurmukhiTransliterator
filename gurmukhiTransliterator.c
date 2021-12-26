@@ -7,7 +7,7 @@ int main () {
 	FILE *cfPtr;
 	gurmukhiTableEntry *transliterationTable;
 	transliterationTable = makeTable("improvedGurmukhiChart.csv");
-	transliterateFile("sampletext.txt", transliterationTable);
+	transliterateFile("gurbani.txt", transliterationTable);
 	return 0;
 }
 
