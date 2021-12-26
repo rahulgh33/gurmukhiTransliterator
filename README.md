@@ -4,7 +4,7 @@ Transliterates Gurmukhi text to Roman characters
 - Uses local text files as input and outputs something like this:
   - [**Original Text**](http://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1) (Not in output)
     -  ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ 
-  -  **Output**
+  -  **Output** 
     -  sati nāmu karatā purakhu nirabhau niravairu akāl mūrati ajūnī saibhaṁ gur prasādi
 
 - What is "gurbani.txt"?
