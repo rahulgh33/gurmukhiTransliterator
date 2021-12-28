@@ -1,6 +1,7 @@
 # gurmukhiTransliterator
 Transliterates Gurmukhi text to Roman characters
-- Phonetic Transliteration
+- Uses a phonetic transliteration scheme similar to the [scheme used by Wiktionary's editors](https://en.wiktionary.org/wiki/Wiktionary:Punjabi_transliteration)
+- Does not allow punctuation in input textfile
 - Uses local text files as input and outputs something like this:
   - [**Original Text**](http://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1) (Not in output)
     -  ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ 
