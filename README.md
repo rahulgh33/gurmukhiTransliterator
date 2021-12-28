@@ -16,6 +16,6 @@ Transliterates Gurmukhi text to Roman characters
       socai soci n hovaī je socī lakh vār
 
 - What is "gurbani.txt"?
-  - The first four lines of the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Guru_Granth_Sahib), the foremost Sikh Scripture. Written in a [Lehndi](https://en.wikipedia.org/wiki/Lahnda) variety of Punjabi.
+  - The first four lines of the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Guru_Granth_Sahib), the foremost Sikh Scripture. Written in a [Lehndi](https://en.wikipedia.org/wiki/Lahnda) variety of Punjabi. An example textfile of Gurmukhi written for religious purposes and a Pakistani Punjabi language using case endings not found in modern Eastern Punjabi.
 - What is "mauja_hi_mauja.txt"?
-  - A selection from the famous Bollywood song "[Mauja Hi Mauja](https://www.youtube.com/watch?v=PaDaoNnOQaM)", written in an Eastern Punjabi variety. 
+  - A selection from the famous Bollywood song "[Mauja Hi Mauja](https://www.youtube.com/watch?v=PaDaoNnOQaM)", written in an Eastern Punjabi variety. Example of a modern selection of Gurmukhi.
